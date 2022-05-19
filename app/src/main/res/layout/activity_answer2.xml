@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AnswerActivity2">
+
+    <TextView
+        android:id="@+id/code2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/code2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/name2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/year2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/year2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/semester2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/semester2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/credit2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/credit2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/venue2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/venue2"
+        android:textSize="20sp" />
+
+</LinearLayout>
